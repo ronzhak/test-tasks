@@ -77,7 +77,7 @@
  - h) Нужна ли административная страница управления рекламой?
 
 # Задание 2: проектирование API
-1. Написать пример REST API запроса, который будет вызываться при переходе пользователя на данный экран
+1. Написать пример REST API запроса, который будет вызываться при переходе пользователя на данный экран.<br/>
 `https://green-market/api/getpartnermarkets?user_id=94b1b9a5-f07b-4741-98e4-e5ce8040b85d`
 
 2. Привести пример ответа этого REST API в соответствии с макетом
@@ -130,4 +130,4 @@
 ```
 # Задание 3: архитектура
 Построить верхнеуровневую архитектурую схему - как должна работать отправка PUSH уведомлений в данном приложении.
-[212121](https://www.plantuml.com/plantuml/svg/hPF1YjH048Rl_HJbt7q13xApYhA7aGKHZqDbqeQGJRhjxhZ6auo8bm4ldXNn1NOMWmExE_iArMzaTK_3a0YZ2zwgql_tLrTNvSWwDAwjpuJ0XLC6ZjjEcXJFiC62Cv6fjp2PvdNPm5JhYT3Cb8jIO-FWrAXQlJW1jA3Dl2r5ek3-mzs71q3VQKk_w2TT-ALVWVz0bzHpkgLhkkBeXZRKYoWEL74-Hnsmhtv9j_uzNR1-Sm05kkKFLtx5HROiu3BKS_wPhaKqYxQrgVwZRtHBncWgwUPvjklKVupMDmUj1tm0l_3v-XzkT0bSuHFrN8DF_KhKMV1eREYBrh7qcYNBmu_Ts40zUJIxmtC8bWSgjzLkh3_k-cXnkGOMtxXkw6VpjmlB9WTUmxIBCvMLP_BFPSobhPpIyxYFgSe8VOfEliGEfgSdGxRWWtFiubJGfYqSADAWao1DS6J_61rcQEL4v2dQxyUu2Maj5XAEZQgacOZNhMnPFPOzKwvyrJsNvasvaCChDtQllQSD5ZM2a-eTEDFAIFF81WJdU-I88_xrVmC0)
+[Верхнеуровневая архитектура](/2026-04-07_14-07-52.png)
