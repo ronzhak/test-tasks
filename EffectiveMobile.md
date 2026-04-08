@@ -78,7 +78,7 @@
 
 # Задание 2: проектирование API
 1. Написать пример REST API запроса, который будет вызываться при переходе пользователя на данный экран.<br/>
-`https://green-market/api/getpartnermarkets?user_id=94b1b9a5-f07b-4741-98e4-e5ce8040b85d`
+`GET https://green-market/api/getpartnermarkets?user_id=94b1b9a5-f07b-4741-98e4-e5ce8040b85d`
 
 2. Привести пример ответа этого REST API в соответствии с макетом
 ```
